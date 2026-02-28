@@ -28,11 +28,7 @@ export const About = () => {
                 **responsif, cepat, dan SEO-friendly** untuk membantu Anda 
                 menjangkau pasar yang lebih luas.
               </p>
-              <p className="text-muted-foreground mt-4">
-                Fokus utama kami adalah menggabungkan estetika desain dengan performa 
-                teknis yang handal. Mulai dari Landing Page hingga E-commerce, kami 
-                siap mewujudkan visi digital Anda menjadi kenyataan.
-              </p>
+             
             </div>
 
             <Statistics />
